@@ -4,3 +4,6 @@
   <div align="center" background-color="red" height="300px" width="100%" >
   <img src="programming.jpg" alt="image" height="300px" width="100%" border-radius="20%" />
 </div>
+<div width="30%">
+  <hr>
+</div>
