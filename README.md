@@ -1,3 +1,4 @@
+<img src="file:///C:/Users/your_pop_music/Downloads/wave-haikei%20(1).svg">
 <div display="table">
   <h4 background-color="blue"> "Hi friends! I am a Programer. Welcome to my World of code and creativity. Let's build something amazing together" </h4>
   <div width="30%">
