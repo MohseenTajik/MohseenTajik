@@ -1,8 +1,6 @@
-<img height="70px" width="100%" src="wave-haikei (4).png">
 <div display="table">
   <h4 background-color="blue"> "Hi friends! I am a Programer. Welcome to my World of code and creativity. Let's build something amazing together" </h4>
   <div width="30%">
-  <img height="1px" width="100%" src="wave-haikei (2).png">
 </div>
 </div>
   <div align="center" background-color="red" height="300px" width="100%" >
@@ -11,14 +9,12 @@
 
 <h3 color="red"> My expertise : </h3>
 <div width="30%">
- <img height="1px" width="80%" src="wave-haikei (2).png">
 </div>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap" alt="programer-languege">
   
 </div>
   <div width="30%" align="right" border-radius="50px">
- <img height="1px" width="40%" src="wave-haikei (2).png">
 </div>
 
 
