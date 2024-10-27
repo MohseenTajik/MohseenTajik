@@ -11,7 +11,7 @@
   <hr width="30%" height="1px">
 </div>
 <h3> My Langueges : </h3>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,docker,git,github,laravel,react&perline=3" alt="programer-languege">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,docker,git,github,laravel,react&perline=2" alt="programer-languege">
 <div width="30%" align="right" border-radius="50px">
   <hr width="30%" height="1px" border-radius="50px">
 </div>
