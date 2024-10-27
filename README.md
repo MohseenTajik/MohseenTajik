@@ -12,6 +12,6 @@
 </div>
 <h3> My Langueges : </h3>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,docker,git,github,laravel,react" alt="programer-languege">
-<div width="30%" align="right">
+<div width="30%" align="right" border-rudios="50px">
   <hr width="30%" height="1px">
 </div>
