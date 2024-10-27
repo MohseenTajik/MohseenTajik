@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-#1877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sorena.T2003) [![Instagram](https://img.shields.io/badge/Instagram-#E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__srena) 
 
 # 💻 Tech Stack:
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
 
 ![CSS3](https://img.shields.io/badge/css3-#1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-#8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-#323330.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E) ![Git](https://img.shields.io/badge/git-#F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-#121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-#FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-#20232a.svg?style=for-the-badge&logo=react&logoColor=#61DAFB)
 # 📊 GitHub Stats:
