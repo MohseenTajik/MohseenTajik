@@ -12,7 +12,7 @@
 <div width="30%">
   <hr width="30%" height="1px">
 </div>
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="programer-languege">
+<img width="100px" height="100px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="programer-languege">
 <div width="30%" align="right" border-radius="50px">
   <hr width="30%" height="1px" border-radius="50px">
 </div>
