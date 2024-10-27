@@ -1,4 +1,3 @@
 <div>
-  <img src="programming.jpg
-" />
+  <img src="programming.jpg" alt="image" />
 </div>
