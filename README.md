@@ -1,3 +1,3 @@
 <div>
-  <img src="programming.jpg" alt="image" />
+  <img border-radius="100px";src="programming.jpg";alt="image" />
 </div>
