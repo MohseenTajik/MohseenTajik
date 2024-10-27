@@ -2,7 +2,7 @@
 <div display="table">
   <h4 background-color="blue"> "Hi friends! I am a Programer. Welcome to my World of code and creativity. Let's build something amazing together" </h4>
   <div width="30%">
-  <img height="70px" width="100%" src="wave-haikei (2).png">
+  <img height="1px" width="90%" src="wave-haikei (2).png">
 </div>
 </div>
   <div align="center" background-color="red" height="300px" width="100%" >
