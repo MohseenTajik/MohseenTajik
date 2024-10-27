@@ -1,4 +1,4 @@
-<div display="inline-block">
+<div display="table">
   <h3> Sunday, Aban 6, 1403 AP </h3>
   <h3> Programer </h3>
 </div>
