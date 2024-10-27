@@ -8,7 +8,7 @@
   <img src="programming.jpg" alt="image" height="300px" width="100%" border-radius="20%" />
 </div>
 
-<h3> My Langueges : </h3>
+<h3 color="red"> My Langueges : </h3>
 <div width="30%">
   <hr width="30%" height="1px">
 </div>
