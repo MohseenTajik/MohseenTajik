@@ -1,4 +1,4 @@
-<img height="50px" width="100%" src="wave-haikei (2).png">
+<img height="50px" width="100%" src="wave-haikei (4).png">
 <div display="table">
   <h4 background-color="blue"> "Hi friends! I am a Programer. Welcome to my World of code and creativity. Let's build something amazing together" </h4>
   <div width="30%">
