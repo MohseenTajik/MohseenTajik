@@ -5,5 +5,5 @@
   <img src="programming.jpg" alt="image" height="300px" width="100%" border-radius="20%" />
 </div>
 <div width="30%">
-  <hr>
+  <hr width="30%" height="10px">
 </div>
