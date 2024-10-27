@@ -7,10 +7,11 @@
   <div align="center" background-color="red" height="300px" width="100%" >
   <img src="programming.jpg" alt="image" height="300px" width="100%" border-radius="20%" />
 </div>
+
+<h3> My Langueges : </h3>
 <div width="30%">
   <hr width="30%" height="1px">
 </div>
-<h3> My Langueges : </h3>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,docker,git,github,laravel,react&perline=5" alt="programer-languege">
 <div width="30%" align="right" border-radius="50px">
   <hr width="30%" height="1px" border-radius="50px">
