@@ -10,4 +10,5 @@
 <div width="30%">
   <hr width="30%" height="1px">
 </div>
-<a href="https://skillicons.dev/icons?i=html,css,docker,git,github,bootstrap,laravel"></a>
+<h3> My Langueges : </h3>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,docker,git,github,laravel,react" alt="programer-languege">
