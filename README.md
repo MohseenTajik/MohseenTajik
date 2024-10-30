@@ -2,7 +2,7 @@
 💻 Greetings! I'm a seasoned Laravel developer, dedicated to developing high-quality web applications. With a strong background in both front-end and back-end technologies, I strive to deliver exceptional results. Let's make something extraordinary!<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Socials :
 <a href="https://facebook.com/Sorena.T2003" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&amp;logoColor=white" alt="Facebook"></a>  <a href="https://instagram.com/its__srena" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 
 # 💻 Tech Stack:
