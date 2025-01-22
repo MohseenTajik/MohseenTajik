@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hi there👋 </h1>
+<h1 style="margin:auto"> Hi there👋 </h1>
 
 ## 💫 About Me :
 💻 Greetings! I'm a seasoned Laravel developer, dedicated to developing high-quality web applications. With a strong background in both front-end and back-end technologies, I strive to deliver exceptional results. Let's make something extraordinary!<br><br>
