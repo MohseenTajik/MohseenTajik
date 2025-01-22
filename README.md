@@ -4,7 +4,9 @@
 
 ## 💫 About Me 
 
-💻 Greetings! I'm a seasoned Laravel developer, dedicated to developing high-quality web applications. With a strong background in both front-end and back-end technologies, I strive to deliver exceptional results. Let's make something extraordinary!<br>
+💻 I'm Mohsen, a backend developer specializing in PHP with experience working with Laravel. I’m taking steps toward becoming a full-stack developer and currently learning React and Next.js. I’ve worked with tools like MySQL, Redis, and Docker. Here, I’d love to connect with you and learn from your experiences to become a better developer. I’d be happy if you share anything you know about my field with me.
+
+By the way, you can find me on social media below.<br>
 
 ## 🌐 Socials 
 <a href="https://www.linkedin.com/in/MohsenTajik2003/"> <img width="50" height="50" src="linkedin.svg" alt="Linkedin"></a>  <a href="https://www.facebook.com/Mohsen.prog"><img width="50" height="50" src="facebook.svg" alt="Facebook"></a>
