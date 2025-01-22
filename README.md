@@ -22,10 +22,10 @@
 <img width="50" height="50" src="microsoft.svg" alt="Microsoft"> <img width="50" height="50" src="apple-light.svg" alt="Apple"> <img width="50" height="50" src="linux.svg" alt="Linux">
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
 
- [![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg">
