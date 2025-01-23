@@ -1,4 +1,4 @@
-<img style="width:100%"
+<img style="width:100%; font-size:20px"
 src="https://camo.githubusercontent.com/da732e08fe15d4f9c86d0c32e1055f06358d8c8d28f70b6a9335b344639ea09b/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d33352670617573653d313030302677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b47697448756221" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=35&amp;pause=1000&amp;width=435&amp;lines=Welcome+to+my+GitHub!">
 
 <img src="api.gif" alt="API"> 
