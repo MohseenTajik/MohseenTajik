@@ -20,7 +20,7 @@ By the way, you can find me on social media below.<br>
 
 ## 😎 Operating System
 <img width="50" height="50" src="microsoft.svg" alt="Microsoft"> <img width="50" height="50" src="apple-light.svg" alt="Apple"> <img width="50" height="50" src="linux.svg" alt="Linux">
-<br>
+<br> 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
