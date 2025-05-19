@@ -69,5 +69,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
 <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taj2003&label=Profile%20views&color=0e75b6&style=flat" alt="taj2003" /> </p>
