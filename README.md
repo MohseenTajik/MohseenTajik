@@ -7,15 +7,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj2003" alt="taj2003" /></a> </p>
 
-- 🌱 I’m currently learning **Docker | GitHub Actions | Figma | Zod or Yup**
+<h3 align="left">💬 Ask me about:</h3>
 
-- 💬 Ask me about **- 🚀 Backend development with PHP & Laravel - 🧩 Designing MVC architecture - 🗃️ MySQL database structure & optimization - 📦 Building APIs with Laravel - 🎯 Roadmap to become a Full-stack developer - 🧪 How to start with React and Next.js - 🇨🇦 Developer migration path to Canada**
+- 🚀 Backend development with PHP & Laravel
+- 🧩 Designing MVC architecture 
+- 🗃️ MySQL database structure & optimization
+- 📦 Building APIs with Laravel
+- 🎯 Roadmap to become a Full-stack developer
+- 🧪 How to start with React and Next.js
 
 - 📫 How to reach me **mohsen.tajikk@yahoo.com**
 
 - 📄 Know about my experiences [- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada](- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada)
 
-- ⚡ Fun fact **- I’m deeply in love with **cockatoos** 🦜 - My birthday is during **Nowruz** and I always celebrate it in **Golestan** 🌸 - I enjoy long debugging nights — sometimes they end in bug-fixing, sometimes in snacks 😅**
+<h3 align="left">⚡ Fun fact:</h3>
+- I’m deeply in love with **cockatoos**
+🦜 - My birthday is during **Nowruz** and I always celebrate it in **Golestan** 
+🌸 - I enjoy long debugging nights — sometimes they end in bug-fixing, sometimes in snacks 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
