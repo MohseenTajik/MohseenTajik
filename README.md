@@ -1,4 +1,5 @@
-![Livewire](https://img.shields.io/badge/Livewire-F43F5E?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-F43F5E?style=for-the-badge&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-F43F5E?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-F43F5E?style=for-the-badge&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-F43F5E?style=for-the-badge&logoColor=white)
+
 
 
 <div align="center" dir="auto"> 
