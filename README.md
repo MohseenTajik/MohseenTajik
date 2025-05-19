@@ -17,14 +17,15 @@
 - 🎯 Roadmap to become a Full-stack developer
 - 🧪 How to start with React and Next.js
 
-- 📫 How to reach me **mohsen.tajikk@yahoo.com**
+- 📫 How to reach me
+- mohsen.tajikk@yahoo.com
 
 - 📄 Know about my experiences [- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada](- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada)
 
 <h3 align="left">⚡ Fun fact:</h3>
-- I’m deeply in love with **cockatoos**
-🦜 - My birthday is during **Nowruz** and I always celebrate it in **Golestan** 
-🌸 - I enjoy long debugging nights — sometimes they end in bug-fixing, sometimes in snacks 😅**
+- I’m deeply in love with cockatoos
+🦜 - My birthday is during Nowruz and I always celebrate it in Golestan
+🌸 - I enjoy long debugging nights — sometimes they end in bug-fixing, sometimes in snacks 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
