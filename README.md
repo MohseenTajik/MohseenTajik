@@ -50,8 +50,8 @@
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<span> <p align="center"><img with="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taj2003&show_icons=true&locale=en&layout=compact" alt="taj2003" /></p></span>
-<span align="center">
+<span> <p align="left"><img with="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taj2003&show_icons=true&locale=en&layout=compact" alt="taj2003" /></p></span>
+<span align="left">
   <p><img with="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taj2003&" alt="taj2003" /></p>
   <p>&nbsp;<img with="100%" src="https://github-readme-stats.vercel.app/api?username=taj2003&show_icons=true&locale=en" alt="taj2003" /></p>
 </span>
