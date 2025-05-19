@@ -32,8 +32,7 @@
 
 <p align="center">&nbsp;<img with="100%" src="https://github-readme-stats.vercel.app/api?username=taj2003&show_icons=true&locale=en" alt="taj2003" /></p><br >
 
-
-## ✍️ Random Dev Quote
+<h3 align="left">✍️ Random Dev Quote:</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
 <br>
