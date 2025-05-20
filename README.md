@@ -61,7 +61,7 @@
 <h1 align="center"></h1>
 <div align="center" class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://telegram.org) [![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=yahoo&logoColor=white)](https://mail.yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Mohsen.prog) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mohseen2003) [![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=yahoo&logoColor=white)](https://mohsen.tajikk@yahoo.com)
 
 </div>
 
