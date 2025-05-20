@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mohsen</h1>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxzNmVxenJ1YXF3b2xhMmx2cDdycG53M2Q0bDYyODNpdmxlcms3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 1000px;" alt="Full width image">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj2003" alt="taj2003" /></a> </p>
+<p align="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj2003" alt="taj2003" /></a> </p>
 <h1 align="center"></h1>
 <h3 align="left">💬 Ask me about:</h3>
 
