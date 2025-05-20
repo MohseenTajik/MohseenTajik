@@ -75,9 +75,12 @@
        alt="Telegram" 
        style="max-width: 100%;">
 
-<a href="https://github.com/andreadisanti" target="_blank" class="social-btn github">
-  <i class="fab fa-github"></i> GitHub
+<a href="https://github.com/andreadisanti" rel="nofollow">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+       alt="GitHub" 
+       style="max-width: 100%;">
 </a>
+
       
 </a>
 
