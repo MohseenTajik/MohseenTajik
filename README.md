@@ -74,6 +74,11 @@
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" 
        alt="Telegram" 
        style="max-width: 100%;">
+
+<a href="https://github.com/andreadisanti" target="_blank" class="social-btn github">
+  <i class="fab fa-github"></i> GitHub
+</a>
+      
 </a>
 
 
