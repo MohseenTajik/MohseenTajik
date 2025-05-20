@@ -63,16 +63,16 @@
 
 <h1 align="center"></h1>
 <div align="center" class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me:</h3>
-<a href="https://linkedin.com/in/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
+<a href="https://linkedin.com/in/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none ;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://t.me/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
+<a href="https://t.me/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none ;">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<a href="https://facebook.com/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration: none;">
+<a href="https://facebook.com/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration: none ;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="mailto:yourname@yahoo.com" rel="nofollow" style="text-decoration:none;">
+<a href="mailto:yourname@yahoo.com" rel="nofollow" style="text-decoration:none ;">
   <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
 </a>
 </div>
