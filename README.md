@@ -15,10 +15,8 @@
 - 📦 Building APIs with Laravel
 - 🎯 Roadmap to become a Full-stack developer
 - 🧪 How to start with React and Next.js
-<h1 align="center"></h1>
-- 📫 How to reach me
-   mohsen.tajikk@yahoo.com
 
+<h1 align="center"></h1>
 - 📄 Know about my experiences [- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada](- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada)
 <h1 align="center"></h1>
 <h3 align="left">⚡ Fun fact:</h3>
@@ -78,6 +76,11 @@
 <a href="https://t.me" rel="nofollow">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" 
        alt="Telegram" 
+       style="max-width: 100%;">
+</a>
+<a href="mailto:yourname@yahoo.com" rel="nofollow">
+  <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" 
+       alt="Yahoo Mail" 
        style="max-width: 100%;">
 </a>
 </div>
