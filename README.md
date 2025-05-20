@@ -1,27 +1,3 @@
-[![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
-
-<a href="https://www.php.net" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-</a>
-
-
-<a href="https://laravel.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-</a>
-
-
-<a href="https://laravel-livewire.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-Livewire-22D3EE?style=flat&logo=laravel&logoColor=white" alt="Livewire" />
-</a>
-
-<a href="https://redis.io" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-</a>
-
-
-
-
-
 <div align="center" dir="auto"> 
 <a align="center" href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/da732e08fe15d4f9c86d0c32e1055f06358d8c8d28f70b6a9335b344639ea09b/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d33352670617573653d313030302677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b47697448756221" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=35&amp;pause=1000&amp;width=435&amp;lines=Welcome+to+my+GitHub!" style="max-width: 100%;"></a>
 </div>
@@ -51,10 +27,10 @@
 <h1 align="center"></h1>
 <h3 align="left">Languages and Tools:</h3>
 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-F43F5E?style=for-the-badge&logo=Livewire&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net) [![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)](https://laravel.com) [![Livewire](https://img.shields.io/badge/-Livewire-F43F5E?style=flat&logo=Livewire&logoColor=white)](https://laravel-livewire.com) [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
