@@ -7,7 +7,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj2003" alt="taj2003" /></a> </p>
-
+<hr>
 <h3 align="left">💬 Ask me about:</h3>
 
 - 🚀 Backend development with PHP & Laravel
