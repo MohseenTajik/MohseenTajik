@@ -2,10 +2,8 @@
 <a align="center" href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/da732e08fe15d4f9c86d0c32e1055f06358d8c8d28f70b6a9335b344639ea09b/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d33352670617573653d313030302677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b47697448756221" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=35&amp;pause=1000&amp;width=435&amp;lines=Welcome+to+my+GitHub!" style="max-width: 100%;"></a>
 </div>
 <h1 align="center">Hi 👋, I'm Mohsen</h1>
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxzNmVxenJ1YXF3b2xhMmx2cDdycG53M2Q0bDYyODNpdmxlcms3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 1000px;" alt="Full width image">
-
-
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj2003" alt="taj2003" /></a> </p>
 <hr>
 <h3 align="left">💬 Ask me about:</h3>
@@ -68,5 +66,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
-<br>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me:</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taj2003&label=Profile%20views&color=0e75b6&style=flat" alt="taj2003" /> </p>
