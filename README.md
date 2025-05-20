@@ -1,3 +1,4 @@
+[![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
 
 <a href="https://www.php.net" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
