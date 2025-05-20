@@ -69,7 +69,7 @@
 <a href="https://t.me/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<a href="https://facebook.com/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
+<a href="https://facebook.com/yourusername" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="mailto:yourname@yahoo.com" rel="nofollow" style="text-decoration:none;">
