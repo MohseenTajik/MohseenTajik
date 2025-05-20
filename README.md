@@ -20,24 +20,15 @@
    mohsen.tajikk@yahoo.com
 
 - 📄 Know about my experiences [- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada](- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada)
-
+<h1 align="center"></h1>
 <h3 align="left">⚡ Fun fact:</h3>
 - I’m deeply in love with cockatoos
 🦜 - My birthday is during Nowruz and I always celebrate it in Golestan
 🌸 - I enjoy long debugging nights — sometimes they end in bug-fixing, sometimes in snacks 😅
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkfdfj" target="blank"> 
-  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  </a><a href="https://fb.com/linkfdfj" target="blank">
-  
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-</a>
-</p>
+<h1 align="center"></h1>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<h1 align="center"></h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
@@ -48,10 +39,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <h3 align="left">I’m currently learning:</h3>
+<h1 align="center"></h1>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=typescript&logoColor=white) ![Yup](https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h3 align="left">Operating Systems:</h3>
+<h1 align="center"></h1>
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
