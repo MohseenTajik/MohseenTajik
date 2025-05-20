@@ -17,7 +17,7 @@
 - 🧪 How to start with React and Next.js
 
 <h1 align="center"></h1>
-📄 Know about my experiences:
+<h3 align="left">📄 Know about my experiences:</h3>
 
 - Backend developer with hands-on experience in PHP & Laravel
 - Built full-stack applications using Laravel + React + Next.js
