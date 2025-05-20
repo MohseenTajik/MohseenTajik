@@ -17,7 +17,9 @@
 - 🧪 How to start with React and Next.js
 
 <h1 align="center"></h1>
-- 📄 Know about my experiences [- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada](- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada)
+📄 Know about my experiences 
+- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada
+- Backend developer with hands-on experience in PHP & Laravel - Built full-stack applications using Laravel + React + Next.js - Passionate about clean code, performance, and scalable architecture - Focused on preparing for remote jobs and migration to Canada
 <h1 align="center"></h1>
 <h3 align="left">⚡ Fun fact:</h3>
 - I’m deeply in love with cockatoos
