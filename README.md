@@ -65,26 +65,17 @@
 
 <h1 align="center"></h1>
 <div align="center" class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me:</h3>
-
-   <a href="https://www.linkedin.com/in/andreadisanti/" rel="nofollow"><img src="https://camo.githubusercontent.com/54412c0ed7a31013f49826d9b395737be872e8b1d4a5e4627d039b38dc7f0d81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765267374796c653d736f6369616c266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;style=social&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-
-   <a href="https://facebook.com/andrea.disanti.7/" rel="nofollow"><img src="https://camo.githubusercontent.com/3a97114791729896020dae8419b50acb4c8dc89c558d0bf5e561be8805232f4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765267374796c653d736f6369616c266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;style=social&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
-
-   <a href="https://t.me/andreadisanti" rel="nofollow">
+<a href="https://www.linkedin.com/in/andreadisanti/" rel="nofollow"><img src="https://camo.githubusercontent.com/54412c0ed7a31013f49826d9b395737be872e8b1d4a5e4627d039b38dc7f0d81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765267374796c653d736f6369616c266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;style=social&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://facebook.com/andrea.disanti.7/" rel="nofollow"><img src="https://camo.githubusercontent.com/3a97114791729896020dae8419b50acb4c8dc89c558d0bf5e561be8805232f4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765267374796c653d736f6369616c266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;style=social&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://t.me/andreadisanti" rel="nofollow">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" 
        alt="Telegram" 
        style="max-width: 100%;">
-
 <a href="https://github.com/andreadisanti" rel="nofollow">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
        alt="GitHub" 
        style="max-width: 100%;">
 </a>
-
-      
-</a>
-
-
 </div>
 
 
