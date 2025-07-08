@@ -21,7 +21,7 @@
 
 <h3 align="left">🛠 Skills:</h3>
 
-- Programming Language: [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)](https://www.python.org)
+- Programming Language:  <span>[![Python](https://img.shields.io/badge/-Python-F7DC6F?style=flat&logo=python&logoColor=306998)](https://www.python.org)</span>
 - Tools: Git, VS Code, PyCharm 
 - Concepts: Artificial Intelligence, Machine Learning, Data scientst, Data Analysis
 
