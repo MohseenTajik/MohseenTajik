@@ -5,7 +5,7 @@
 <span align="center" >
 <img src="AI.gif" style="width: 1000px;" alt="Full width image">
 </span>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxzNmVxenJ1YXF3b2xhMmx2cDdycG53M2Q0bDYyODNpdmxlcms3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy" alt="taj2003" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxzNmVxenJ1YXF3b2xhMmx2cDdycG53M2Q0bDYyODNpdmxlcms3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="taj2003" /></a> </p>
 <h1 align="center"></h1>
 
 
