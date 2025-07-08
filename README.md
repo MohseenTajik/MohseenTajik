@@ -37,9 +37,9 @@
 
 
 <h1 align="center"></h1>
-<h3 align="left">Operating Systems:</h3>
+<h3 align="left">💻 Operating Systems:</h3>
 
-[![Microsoft](https://img.shields.io/badge/-Microsoft-0078D6?style=flat&logo=microsoft&logoColor=white)](https://www.microsoft.com) [![Apple](https://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com) [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org)
 
 <h1 align="center"></h1>
 <span> <p align="left"><img with="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taj2003&show_icons=true&locale=en&layout=compact" alt="taj2003" /></p></span>
