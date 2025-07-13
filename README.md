@@ -43,7 +43,7 @@
 
 <h1 align="center"></h1>
 
-<span><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohseentajik" alt="mohseentajik" /></a> </p></span>
+ <span><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohseentajik" alt="mohseentajik" /></a> </p></span>
 
 <span align="left">
   <p><img with="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taj2003&" alt="taj2003" /></p>
