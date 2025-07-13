@@ -45,10 +45,7 @@
 
 <span><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&locale=en&layout=compact" alt="mohseentajik" /></p></span>
 
-<span align="left">
-  <p><img with="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taj2003&" alt="taj2003" /></p>
-  <p>&nbsp;<img with="100%" src="https://github-readme-stats.vercel.app/api?username=taj2003&show_icons=true&locale=en" alt="taj2003" /></p> 
-</span>
+<span align="left"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&locale=en" alt="mohseentajik" /></p></span>
 
 <h1 align="center"></h1>
 <h3 align="left">✍️ Random Dev Quote:</h3>
