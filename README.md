@@ -3,15 +3,15 @@
 <a align="center" href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/da732e08fe15d4f9c86d0c32e1055f06358d8c8d28f70b6a9335b344639ea09b/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d33352670617573653d313030302677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b47697448756221" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=35&amp;pause=1000&amp;width=435&amp;lines=Welcome+to+my+GitHub!" style="max-width: 100%;"></a>
 </div>
 
-<span align="center" >
+<div align="center" >
 <img src="AI.gif" style="width: 1000px;" alt="Full width image">
-</span>
+</div>
 
-<span align="center"><p align="left">
+<div align="center"><p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mohseentajik&theme=darkhub" alt="mohseentajik" />
   </a>
-</p></span>
+</p></div>
 
 <h3 align="left">💬 Ask me about:</h3>
 
@@ -50,16 +50,16 @@
 <div align="center"><p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="mohseentajik" />
 </p></div>
- <span align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
-</p></span>
+ <div align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
+</p></div>
 
 <h1 align="center"></h1>
 <h3 align="left">✍️ Random Dev Quote:</h3>
-<span align="center">
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</span>
+</div>
 
 <h1 align="center"></h1>
 <div align="center" class="markdown-heading" dir="auto">
