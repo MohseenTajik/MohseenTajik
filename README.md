@@ -55,19 +55,11 @@
 
 <h1 align="center"></h1>
 <h3 align="left">✍️ Random Dev Quote:</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)[![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-[![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=4)](https://visitcount.itsvg.in)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <h1 align="center"></h1>
 <div align="center" class="markdown-heading" dir="auto">
-
-
 <h3 class="heading-element" dir="auto">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/MohseenTajik) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Mohsentajikk)
