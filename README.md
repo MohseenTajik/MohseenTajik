@@ -57,7 +57,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Mohsen.prog) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/I_am_Mohseenn)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:mohsen.tajikk@yahoo.com)
 
-</div>[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/)
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taj2003&label=Profile%20views&color=0e75b6&style=flat" alt="taj2003" /> </p>
