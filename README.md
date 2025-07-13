@@ -5,8 +5,8 @@
 
 <table align="center">
   <tr>
-    <td style="border: 2px solid #ffffff; padding: 5px;">
-      <img src="AI.gif" width="1000" alt="Full width image" />
+    <td style="padding: 0; border-radius: 20px; overflow: hidden;">
+      <img src="AI.gif" width="1000" alt="AI Animation" />
     </td>
   </tr>
 </table>
