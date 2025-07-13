@@ -55,14 +55,10 @@
 <div align="center" class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Mohsen.prog) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/I_am_Mohseenn)
-[![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:mohsen.tajikk@yahoo.com)
+[![Yahoo](https://img.shields.io/badge/Yahoo-Email-6001D2?style=flat&labelColor=6001D2&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTMuOTYzIDIxLjc5M0wxMi4yNDUgMjMuNDA3QzEyLjE3OCAyMy40NzUgMTIuMDg5IDIzLjUxMSAxMi4wMDEgMjMuNTExQzEx%0D%0ALjkxMiAyMy41MTEgMTEuODIyIDIzLjQ3NSAxMS43NTUgMjMuNDA3TDkuOTY3NSAyMS43OTNDOS44NzYyIDIxLjcwMiA5LjgyNzYgMjEuNTc0IDkuODI3NiAyMS40MzZM%0D%0AOS44Mjc2IDEzLjk1OUg5LjYxNzVMMTIuMzM5IDE1LjY4TDEyLjMzOSAxMy45MjZIOS44Mjc2VjEyLjU2NEgxNC4xNzRWMTMuOTI2SDEzLjk2M0wxMy45NjMgMjEuNzkz%0D%0AWk0yMS44OTUgMjMuNTEyQzIwLjU1MiAyMy41MTIgMTkuNTg4IDIyLjYxOCAxOS4wMDcgMjEuNzkzTDE5LjAwNyAyMS43OTNDMTguOTE2IDIxLjcwMiAxOC44NjggMjEu%0D%0ANTc0IDE4Ljg2OCAyMS40MzZWMTMuOTI2SDE4LjY2MlYxMi41NjRIMjMuMTA4VjEzLjkyNkgyMi44OTZMMjIuODk2IDIxLjQzNkMyMi44OTYgMjEuNTc0IDIyLjg0OCAy%0D%0AMS43MDIgMjIuNzU3IDIxLjc5M0wyMS44OTUgMjMuNTEyWk0yMi4zNzIgMTIuNTY0TDE2LjY3OCAxMC4yMTdWMTAuMDE1SDIzLjk1NFYxMC4yMTdMMTguMzIxIDEyLjU2%0D%0ANAoyMi4zNzIgMTIuNTY0WiIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D)](mailto:mohsen.tajikk@yahoo.com)
 
 </div>
 
-[![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat)](mailto:mohsen.tajikk@yahoo.com)
 
-[![📧 Yahoo](https://img.shields.io/badge/Yahoo_Email-6001D2?style=flat)](mailto:mohsen.tajikk@yahoo.com)
-
-[📧 Yahoo](mailto:mohsen.tajikk@yahoo.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taj2003&label=Profile%20views&color=0e75b6&style=flat" alt="taj2003" /> </p>
