@@ -7,7 +7,11 @@
 <img src="AI.gif" style="width: 1000px;" alt="Full width image">
 </span>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohseentajik" alt="mohseentajik" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohseentajik&theme=darkhub" alt="mohseentajik" />
+  </a>
+</p>
 
 <h3 align="left">💬 Ask me about:</h3>
 
