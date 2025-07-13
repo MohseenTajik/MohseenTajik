@@ -5,6 +5,7 @@
 <span align="center" >
 <img src="AI.gif" style="width: 1000px;" alt="Full width image">
 </span>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohseentajik" alt="mohseentajik" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj2003" alt="taj2003" /></a> </p>
 <h1 align="center"></h1>
 
