@@ -39,7 +39,8 @@
 <h1 align="center"></h1>
 <h3 align="left">💻 Operating Systems:</h3>
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ([![LPIC-1](https://img.shields.io/badge/LPIC--1-4CAF50?style=flat)](https://www.lpi.org/) Knowledge level)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ([![LPIC-1](https://img.shields.io/badge/LPIC--1-4CAF50?style=flat)](https://www.lpi.org/)
+[![LPIC-2](https://img.shields.io/badge/LPIC--2-2196F3?style=flat)](https://www.lpi.org/)    Knowledge level)
 
 <h1 align="center"></h1>
 
