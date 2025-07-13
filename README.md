@@ -5,7 +5,7 @@
 
 <table align="center">
   <tr>
-    <td style="padding: 0; border-radius: 20px; overflow: hidden;">
+    <td style="padding: 0; border-radius: 20px; overflow: hidden; background-color: #000;">
       <img src="AI.gif" width="1000" alt="AI Animation" />
     </td>
   </tr>
