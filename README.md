@@ -7,11 +7,11 @@
 <img src="AI.gif" style="width: 1000px;" alt="Full width image">
 </span>
 
-<p align="left">
+<span align="center"><p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mohseentajik&theme=darkhub" alt="mohseentajik" />
   </a>
-</p>
+</p></span>
 
 <h3 align="left">💬 Ask me about:</h3>
 
@@ -47,17 +47,19 @@
 
 <h1 align="center"></h1>
 
-<p>
+<span align="center"><p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="mohseentajik" />
-</p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
-</p>
+</p></span>
+ <span align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
+</p></span>
 
 <h1 align="center"></h1>
 <h3 align="left">✍️ Random Dev Quote:</h3>
+<span align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</span>
 
 <h1 align="center"></h1>
 <div align="center" class="markdown-heading" dir="auto">
