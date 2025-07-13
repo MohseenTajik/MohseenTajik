@@ -57,7 +57,7 @@
 <h3 align="left">✍️ Random Dev Quote:</h3>
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
