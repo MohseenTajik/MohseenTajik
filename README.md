@@ -47,9 +47,9 @@
 
 <h1 align="center"></h1>
 
-<span align="center"><p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="mohseentajik" />
-</p></span>
+<div align="center"><p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="mohseentajik" />
+</p></div>
  <span align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
 </p></span>
 
