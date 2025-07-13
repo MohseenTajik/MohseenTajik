@@ -43,8 +43,9 @@
 
 <h1 align="center"></h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&theme=&hide_border=true&locale=en&layout=compact" alt="mohseentajik" /></p>
 <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="mohseentajik" />
+</p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
 </p>
 
