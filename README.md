@@ -59,9 +59,10 @@
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/)
+[![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat)](mailto:mohsen.tajikk@yahoo.com)
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohsenTajikk/)
+[![📧 Yahoo](https://img.shields.io/badge/Yahoo_Email-6001D2?style=flat)](mailto:mohsen.tajikk@yahoo.com)
 
+[📧 Yahoo](mailto:mohsen.tajikk@yahoo.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taj2003&label=Profile%20views&color=0e75b6&style=flat" alt="taj2003" /> </p>
