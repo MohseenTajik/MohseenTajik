@@ -58,9 +58,14 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)[![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="center"></h1>
-<div align="center" class="markdown-heading" dir="auto">
+
+[![](https://visitcount.itsvg.in/api?id=TAJ2003&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<div align="center" class="markdown-heading" dir="auto">
+
+
 
 <h3 class="heading-element" dir="auto">Connect with me:</h3>
 
