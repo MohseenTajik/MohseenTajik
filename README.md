@@ -64,14 +64,12 @@
 - 📍 Based in Tehran, Iran
 
 <h3 align="left">✍️ Favorite Quotes:</h3>
-   <p>
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> – Cory House
+> Code is like humor. When you have to explain it, it’s bad.
+  > – Cory House
      
-> “The best error message is the one that never shows up.”  
-> – Thomas Fuchs
+  > The best error message is the one that never shows up.
+  > – Thomas Fuchs
 
-   </p>
 <h1 align="center"></h1>
 <h3 align="left">✍️ Random Dev Quote:</h3>
 <div align="center">
