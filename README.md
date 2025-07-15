@@ -56,31 +56,9 @@
 <h1 align="center"></h1>
 <h3 align="left">✍️ Random Dev Quote:</h3>
 <div align="center">
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-<!-- GitHub Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohseentajik&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohseentajik&theme=darkhub&no-frame=true" />
-</p>
-
-<!-- Motivational Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" />
-</p>
-
-
 </div>
 
 <h1 align="center"></h1>
