@@ -9,7 +9,7 @@
 
 <div align="center"><p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohseentajik&theme=darkhub" alt="mohseentajik" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohseentajik&theme=darkhub&hide_border=true" alt="mohseentajik" />
   </a>
 </p></div>
 
