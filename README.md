@@ -52,17 +52,10 @@
  <div align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
 </p></div>
 
-<h1 align="center"></h1>
-<h3 align="left">✍️ 📅 2030 Goals:</h3>
-> 🇮🇷 Persian — Native  
-> 🇺🇸 English — Intermediate (B1-B2, preparing for IELTS)  
-> 📍 Based in Tehran, Iran
-
-
 <h3 align="left">✍️ 🌍 Languages & Location:</h3>
-> 🇮🇷 Persian (Native)
-> 🇺🇸 English (Intermediate – B1-B2, preparing for IELTS)
-> 📍 Based in Tehran, Iran
+- 🇮🇷 Persian (Native)
+- 🇺🇸 English (Intermediate – B1-B2, preparing for IELTS)
+- 📍 Based in Tehran, Iran
 
 <h3 align="left">✍️ Favorite Quotes:</h3>
 <div>
