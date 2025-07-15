@@ -28,7 +28,6 @@
 [![Python](https://img.shields.io/badge/-Python-F7DC6F?style=flat&logo=python&logoColor=306998)](https://www.python.org)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)](https://git-scm.com)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)](https://github.com)  [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com)  [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
-
 [![AI](https://img.shields.io/badge/-Artificial%20Intelligence-6f42c1?style=flat&logo=ai&logoColor=ffffff)](#)  [![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=ffffff)](#)  [![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-F7DC6F?style=flat&logo=python&logoColor=306998)](#)
 
 
@@ -53,6 +52,28 @@
  <div align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
 </p></div>
 
+<h1 align="center"></h1>
+<h3 align="left">✍️ 📅 2025 Goals:</h3>
+- 🧠 Master advanced AI concepts
+- 🇨🇦 Apply for Canadian PR
+- 📊 Reach 1000+ contributions on GitHub
+
+<h1 align="center"></h1>
+<h3 align="left">✍️ 🌍 Languages & Location:</h3>
+- 🇮🇷 Persian (Native)
+- 🇺🇸 English (Intermediate – B1-B2, preparing for IELTS)
+- 📍 Based in Tehran, Iran
+
+<h1 align="center"></h1>
+<h3 align="left">✍️ Favorite Quotes:</h3>
+   <p>
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> – Cory House
+     
+> “The best error message is the one that never shows up.”  
+> – Thomas Fuchs
+
+   </p>
 <h1 align="center"></h1>
 <h3 align="left">✍️ Random Dev Quote:</h3>
 <div align="center">
