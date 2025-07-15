@@ -53,9 +53,13 @@
 </p></div>
 
 <h3 align="left">✍️ 🌍 Languages & Location:</h3>
+<div>
+
 🇮🇷 Persian (Native)
 🇺🇸 English (Intermediate – B1-B2, preparing for IELTS)
 📍 Based in Tehran, Iran
+
+</div>
 
 <h3 align="left">✍️ Favorite Quotes:</h3>
 <div>
