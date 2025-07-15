@@ -53,10 +53,11 @@
 </p></div>
 
 <h1 align="center"></h1>
-<h3 align="left">✍️ 📅 2025 Goals:</h3>
-🇮🇷 Persian — Native
-🇺🇸 English — Intermediate (B1-B2, preparing for IELTS)
-📍 Based in Tehran, Iran
+<h3 align="left">✍️ 📅 2030 Goals:</h3>
+> 🇮🇷 Persian — Native  
+> 🇺🇸 English — Intermediate (B1-B2, preparing for IELTS)  
+> 📍 Based in Tehran, Iran
+
 
 <h3 align="left">✍️ 🌍 Languages & Location:</h3>
 > 🇮🇷 Persian (Native)
