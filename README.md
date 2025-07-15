@@ -54,9 +54,9 @@
 
 <h1 align="center"></h1>
 <h3 align="left">✍️ 📅 2025 Goals:</h3>
-> 🧠 Master advanced AI concepts
-> 🇨🇦 Apply for Canadian PR
-> 📊 Reach 1000+ contributions on GitHub
+> Master advanced AI concepts
+> Apply for Canadian PR
+> Reach 1000+ contributions on GitHub
 
 <h3 align="left">✍️ 🌍 Languages & Location:</h3>
 > 🇮🇷 Persian (Native)
