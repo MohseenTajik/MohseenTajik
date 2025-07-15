@@ -58,13 +58,11 @@
 - 🇨🇦 Apply for Canadian PR
 - 📊 Reach 1000+ contributions on GitHub
 
-<h1 align="center"></h1>
 <h3 align="left">✍️ 🌍 Languages & Location:</h3>
 - 🇮🇷 Persian (Native)
 - 🇺🇸 English (Intermediate – B1-B2, preparing for IELTS)
 - 📍 Based in Tehran, Iran
 
-<h1 align="center"></h1>
 <h3 align="left">✍️ Favorite Quotes:</h3>
    <p>
 > “Code is like humor. When you have to explain it, it’s bad.”  
