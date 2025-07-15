@@ -57,7 +57,7 @@
 
 - Persian (Native) 🇮🇷
 - English (Intermediate – B1-B2, preparing for IELTS) 🇺🇸
-- Based in Tehran, Iran 📍
+> Based in Tehran, Iran 📍
 
 
 
