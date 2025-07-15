@@ -15,14 +15,14 @@
 
 <h3 align="left">💬 Ask me about:</h3>
 
-- An AI developer based in Tehran, Iran 🇮🇷  
-- A smart engineer passionate about teamwork and always eager to learn and grow 🚀
-
+> An AI developer based in Tehran, Iran 🇮🇷  
+> A smart engineer passionate about teamwork and always eager to learn and grow 🚀
+  
 <h3 align="left">🧠 What I do:</h3>
  
-- Develop AI and machine learning models  
-- Solve complex problems using algorithms and data analysis
-
+> Develop AI and machine learning models  
+> Solve complex problems using algorithms and data analysis
+  
 <h3 align="left">🛠 Skills:</h3>
 
 [![Python](https://img.shields.io/badge/-Python-F7DC6F?style=flat&logo=python&logoColor=306998)](https://www.python.org)
@@ -35,8 +35,8 @@
 
 <h3 align="left">🌱 Currently:</h3>
 
-- Improving my skills in advanced AI topics  
-- Collaborating on team projects and open-source contributions
+> Improving my skills in advanced AI topics  
+> Collaborating on team projects and open-source contributions
 
 
 <h1 align="center"></h1>
@@ -55,8 +55,8 @@
 <h3 align="left">✍️ 🌍 Languages & Location:</h3>
 
 
-- Persian (Native) 🇮🇷
-- English (Intermediate – B1-B2, preparing for IELTS) 🇺🇸
+> Persian (Native) 🇮🇷
+> English (Intermediate – B1-B2, preparing for IELTS) 🇺🇸
 > Based in Tehran, Iran 📍
 
 
