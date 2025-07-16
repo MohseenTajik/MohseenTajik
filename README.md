@@ -52,7 +52,7 @@
  <div align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohseentajik&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="mohseentajik" />
 </p></div>
 
-<h3 align="left">✍️ 🌍 Languages & Location:</h3>
+<h3 align="left">🌍 Languages & Location:</h3>
 
 
 > Persian 🇮🇷 (Native) 
